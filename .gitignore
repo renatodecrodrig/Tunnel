@@ -1,0 +1,10 @@
+node_modules
+
+# HubSpot config file
+hubspot.config.yml
+
+.env
+
+yarn.lock
+
+yarn-error.log
